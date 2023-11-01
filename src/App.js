@@ -9,7 +9,7 @@ import ShopComparePage from './pages/ShopComparePage';
 import ShopFilterPage from './pages/ShopFilterPage';
 import ShopGridRightPage from './pages/ShopGridRightPage';
 import ShopInvoicePage from './pages/ShopInvoicePage';
-import ShopListLeftPage from './pages/ShopGridLeftPage';
+
 import ShopGridLeftPage from './pages/ShopGridLeftPage';
 import ShopCheckOutPage from './pages/ShopCheckOutPage';
 import ShopProductFullPage from './pages/ShopProductFullPage';
