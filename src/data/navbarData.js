@@ -13,7 +13,7 @@ export default [
   },
   {
     title: 'Vendors',
-    path: '/vendors',
+    path: '/vendor-list',
   },
   {
     title: 'Services',
